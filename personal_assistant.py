@@ -1,5 +1,3 @@
-
-
 from task.task_manager import TaskManager
 from notes.note import NoteManager
 from contacts.contact import ContactManager
